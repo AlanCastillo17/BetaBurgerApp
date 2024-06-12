@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Beta Burger</string>
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="text_welcome">Welcome</string>
+    <string name="user">Beta Team</string>
+    <string name="text_introduction">Quality meat is the best source of minerals. The heme iron and zinc in its composition add to being a source of potassium, phosphorus and vitamins, among which those of group B should be highlighted, particularly those of B12, B6 and riboflavin.</string>
+    <string name="title">BEST BURGERS IN THE CITY</string>
+    <string name="properties">What is our secret?</string>
+    <string name="text_properties">Above all, the secret of the hamburger is the meat. To make a good hamburger it is essential that the meat we use is of the highest quality.</string>
+    <string name="messagepassword">Invalid Password</string>
+    <string name="messageusername">Invalid Username</string>
+    <string name="Home">Home</string>
+    <string name="prefs_file">com.example.betademo.PREFERENCE_FILE_KEY</string>
+    <string name="singout">Sign Out</string>
+    <string name="forgetpassword">Forget the password</string>
+    <string name="login">Login</string>
+    <string name="regemail">Register EMAIL</string>
+
+
+</resources>

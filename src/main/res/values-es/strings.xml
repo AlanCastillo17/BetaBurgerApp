@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Beta Burger</string>
+    <string name="text_username">Nombre de usuario</string>
+    <string name="text_password">Contraseña</string>
+    <string name="text_welcome">Bienvenido</string>
+    <string name="user">Grupo Beta</string>
+    <string name="text_introduction">La carne de calidad es la mejor fuente de minerales. El hierro hemo y el zinc de su composición se suman a ser fuente de potasio, fósforo y vitaminas, entre las que cabe destacar las del grupo B, en particular las del B12, B6 y riboflavina.</string>
+    <string name="title">LAS MEJORES HAMBURGESAS LA CIUDAD</string>
+    <string name="properties">¿Cuál es nuestro secreto?</string>
+    <string name="text_properties">Ante todo, el secreto de la hamburguesa es la carne. Para hacer una buena hamburguesa es esencial que la carne que utilizamos sea de primera calidad </string>
+    <string name="messagepassword">Contraseña inválida</string>
+    <string name="messageusername">Nombre de usuario inválido</string>
+    <string name="Home">Inicio</string>
+    <string name="prefs_file">com.example.betademo.PREFERENCE_FILE_KEY</string>
+    <string name="singout">Cerrar Sesión</string>
+    <string name="forgetpassword">Olvidé la Contraseña</string>
+    <string name="login">Ingresar</string>
+    <string name="regemail">Registrar Correo</string>
+
+
+</resources>
